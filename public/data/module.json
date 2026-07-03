@@ -1,0 +1,41 @@
+{
+  "id": "mod-kubernetes-basic",
+  "slug": "module-kubernetes-basic",
+  "title": "Kubernetes与容器编排基础",
+  "subtitle": "面向Docker和云原生学习者",
+  "description": "面向DockerLinux云计算和后端部署学习者的K8sPodDeploymentServiceIngressConfigMapSecretVolumeNamespaceHelm日志排错与云原生项目部署训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Kubernetes",
+    "K8s",
+    "云原生",
+    "容器编排",
+    "Pod",
+    "Deployment",
+    "Service",
+    "Helm"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "advanced",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "⚡",
+  "repoUrl": "https://github.com/openskill-galaxy/module-kubernetes-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 92
+  }
+}
