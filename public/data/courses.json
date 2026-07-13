@@ -34,7 +34,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-001",
+      "k8-lesson-002",
+      "k8-lesson-003",
+      "k8-lesson-004",
+      "k8-lesson-005",
+      "k8-lesson-006",
+      "k8-lesson-007",
+      "k8-lesson-008",
+      "k8-lesson-009",
+      "k8-lesson-010",
+      "k8-lesson-011",
+      "k8-lesson-012",
+      "k8-lesson-013"
+    ],
+    "summary": "K8s定义、云原生、学习路线。"
   },
   {
     "id": "k8-course-02",
@@ -71,7 +87,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-014",
+      "k8-lesson-015",
+      "k8-lesson-016",
+      "k8-lesson-017",
+      "k8-lesson-018",
+      "k8-lesson-019",
+      "k8-lesson-020",
+      "k8-lesson-021",
+      "k8-lesson-022",
+      "k8-lesson-023",
+      "k8-lesson-024",
+      "k8-lesson-025",
+      "k8-lesson-026"
+    ],
+    "summary": "Control Plane、etcd、Scheduler、Controller Manager。"
   },
   {
     "id": "k8-course-03",
@@ -108,7 +140,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-027",
+      "k8-lesson-028",
+      "k8-lesson-029",
+      "k8-lesson-030",
+      "k8-lesson-031",
+      "k8-lesson-032",
+      "k8-lesson-033",
+      "k8-lesson-034",
+      "k8-lesson-035",
+      "k8-lesson-036",
+      "k8-lesson-037",
+      "k8-lesson-038",
+      "k8-lesson-039"
+    ],
+    "summary": "kubectl命令、YAML语法、资源对象分类。"
   },
   {
     "id": "k8-course-04",
@@ -145,7 +193,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-040",
+      "k8-lesson-041",
+      "k8-lesson-042",
+      "k8-lesson-043",
+      "k8-lesson-044",
+      "k8-lesson-045",
+      "k8-lesson-046",
+      "k8-lesson-047",
+      "k8-lesson-048",
+      "k8-lesson-049",
+      "k8-lesson-050",
+      "k8-lesson-051",
+      "k8-lesson-052"
+    ],
+    "summary": "Pod定义、多容器、Init容器、生命周期钩子。"
   },
   {
     "id": "k8-course-05",
@@ -182,7 +246,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-053",
+      "k8-lesson-054",
+      "k8-lesson-055",
+      "k8-lesson-056",
+      "k8-lesson-057",
+      "k8-lesson-058",
+      "k8-lesson-059",
+      "k8-lesson-060",
+      "k8-lesson-061",
+      "k8-lesson-062",
+      "k8-lesson-063",
+      "k8-lesson-064",
+      "k8-lesson-065"
+    ],
+    "summary": "Deployment声明式更新、回滚、策略。"
   },
   {
     "id": "k8-course-06",
@@ -219,7 +299,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-066",
+      "k8-lesson-067",
+      "k8-lesson-068",
+      "k8-lesson-069",
+      "k8-lesson-070",
+      "k8-lesson-071",
+      "k8-lesson-072",
+      "k8-lesson-073",
+      "k8-lesson-074",
+      "k8-lesson-075",
+      "k8-lesson-076",
+      "k8-lesson-077",
+      "k8-lesson-078"
+    ],
+    "summary": "Service类型、DNS、Endpoint、负载均衡。"
   },
   {
     "id": "k8-course-07",
@@ -256,7 +352,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-079",
+      "k8-lesson-080",
+      "k8-lesson-081",
+      "k8-lesson-082",
+      "k8-lesson-083",
+      "k8-lesson-084",
+      "k8-lesson-085",
+      "k8-lesson-086",
+      "k8-lesson-087",
+      "k8-lesson-088",
+      "k8-lesson-089",
+      "k8-lesson-090",
+      "k8-lesson-091"
+    ],
+    "summary": "Ingress资源、Ingress Controller、TLS。"
   },
   {
     "id": "k8-course-08",
@@ -293,7 +405,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-092",
+      "k8-lesson-093",
+      "k8-lesson-094",
+      "k8-lesson-095",
+      "k8-lesson-096",
+      "k8-lesson-097",
+      "k8-lesson-098",
+      "k8-lesson-099",
+      "k8-lesson-100",
+      "k8-lesson-101",
+      "k8-lesson-102",
+      "k8-lesson-103",
+      "k8-lesson-104"
+    ],
+    "summary": "ConfigMap创建使用、Secret编码挂载、环境变量。"
   },
   {
     "id": "k8-course-09",
@@ -330,7 +458,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-105",
+      "k8-lesson-106",
+      "k8-lesson-107",
+      "k8-lesson-108",
+      "k8-lesson-109",
+      "k8-lesson-110",
+      "k8-lesson-111",
+      "k8-lesson-112",
+      "k8-lesson-113",
+      "k8-lesson-114",
+      "k8-lesson-115",
+      "k8-lesson-116",
+      "k8-lesson-117"
+    ],
+    "summary": "emptyDir、hostPath、PVC/PV绑定、StorageClass。"
   },
   {
     "id": "k8-course-10",
@@ -367,7 +511,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-118",
+      "k8-lesson-119",
+      "k8-lesson-120",
+      "k8-lesson-121",
+      "k8-lesson-122",
+      "k8-lesson-123",
+      "k8-lesson-124",
+      "k8-lesson-125",
+      "k8-lesson-126",
+      "k8-lesson-127",
+      "k8-lesson-128",
+      "k8-lesson-129",
+      "k8-lesson-130"
+    ],
+    "summary": "Namespace隔离、Label标识、Selector查询。"
   },
   {
     "id": "k8-course-11",
@@ -404,7 +564,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-131",
+      "k8-lesson-132",
+      "k8-lesson-133",
+      "k8-lesson-134",
+      "k8-lesson-135",
+      "k8-lesson-136",
+      "k8-lesson-137",
+      "k8-lesson-138",
+      "k8-lesson-139",
+      "k8-lesson-140",
+      "k8-lesson-141",
+      "k8-lesson-142",
+      "k8-lesson-143"
+    ],
+    "summary": "探针、requests/limits、HPA。"
   },
   {
     "id": "k8-course-12",
@@ -441,7 +617,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-144",
+      "k8-lesson-145",
+      "k8-lesson-146",
+      "k8-lesson-147",
+      "k8-lesson-148",
+      "k8-lesson-149",
+      "k8-lesson-150",
+      "k8-lesson-151",
+      "k8-lesson-152",
+      "k8-lesson-153",
+      "k8-lesson-154",
+      "k8-lesson-155",
+      "k8-lesson-156"
+    ],
+    "summary": "Helm安装、Chart结构、values.yaml、release。"
   },
   {
     "id": "k8-course-13",
@@ -478,7 +670,23 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-157",
+      "k8-lesson-158",
+      "k8-lesson-159",
+      "k8-lesson-160",
+      "k8-lesson-161",
+      "k8-lesson-162",
+      "k8-lesson-163",
+      "k8-lesson-164",
+      "k8-lesson-165",
+      "k8-lesson-166",
+      "k8-lesson-167",
+      "k8-lesson-168",
+      "k8-lesson-169"
+    ],
+    "summary": "kubectl describe/logs/exec、事件排查、常见错误。"
   },
   {
     "id": "k8-course-14",
@@ -515,6 +723,22 @@
       "会管理资源",
       "能排查问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "k8-lesson-170",
+      "k8-lesson-171",
+      "k8-lesson-172",
+      "k8-lesson-173",
+      "k8-lesson-174",
+      "k8-lesson-175",
+      "k8-lesson-176",
+      "k8-lesson-177",
+      "k8-lesson-178",
+      "k8-lesson-179",
+      "k8-lesson-180",
+      "k8-lesson-181",
+      "k8-lesson-182"
+    ],
+    "summary": "完整项目部署、面试题、证书准备。"
   }
 ]
